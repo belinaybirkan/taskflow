@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Müşteri Portalı",
+    "description": "Müşteri hesap ve profil ekranları.",
+    "status": "active",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "E-Ticaret API",
+    "description": "Sipariş ve ürün işlemleri.",
+    "status": "active",
+    "createdAt": "2026-10-02T09:00:00.000Z",
+    "updatedAt": "2026-10-02T09:00:00.000Z"
+  }
+]

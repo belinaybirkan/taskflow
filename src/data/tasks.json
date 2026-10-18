@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Giriş formu entegrasyonu",
+    "description": "Giriş sayfasını oturum açma API'sine bağla.",
+    "assignee": "Ayşe",
+    "status": "in-progress",
+    "priority": "high",
+    "projectId": 1,
+    "createdAt": "2026-10-01T10:00:00.000Z",
+    "updatedAt": "2026-10-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Sipariş listesi endpointi",
+    "description": "Siparişleri tarihe ve duruma göre listele.",
+    "assignee": "Mert",
+    "status": "pending",
+    "priority": "medium",
+    "projectId": 2,
+    "createdAt": "2026-10-02T11:00:00.000Z",
+    "updatedAt": "2026-10-02T11:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Profil güncelleme testi",
+    "description": "Profil güncelleme isteğini Postman ile doğrula.",
+    "assignee": "Ece",
+    "status": "completed",
+    "priority": "low",
+    "projectId": 1,
+    "createdAt": "2026-10-03T12:00:00.000Z",
+    "updatedAt": "2026-10-03T16:00:00.000Z"
+  }
+]
